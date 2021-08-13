@@ -1,0 +1,11 @@
+*.d
+*.o
+*.su
+*.mk
+*.list
+
+*.map
+*.elf
+*.bin
+makefile
+
